@@ -32,6 +32,7 @@ GEM
     racc (1.6.0)
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
+    zip_tricks (5.6.0)
     zlib (2.1.1)
 
 PLATFORMS
@@ -41,6 +42,7 @@ DEPENDENCIES
   activesupport (~> 7.0.4)
   aws-sdk-s3 (~> 1.114)
   nokogiri (~> 1.13.9)
+  zip_tricks (~> 5.6)
   zlib (~> 2.1.1)
 
 RUBY VERSION
